@@ -1,5 +1,23 @@
 ### Hi there 👋
 
+Em Evolução!! 
+
+
+<!--
+
+
+
+- 🌱 Estudando node-js
+- 📫 Instagram :https://www.instagram.com/gustavo_caetno/
+-->
+<div align="center">
+  <a href="https://github.com/DGCruz">
+  <img height="auto"  src="https://github-readme-stats.vercel.app/api?username=DGCruz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/></br>
+    <img height="auto" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DGCruz&layout=compact&langs_count=7&theme=radical"/>
+
+</div>
+
+
 <!--
 **DGCruz/DGCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
