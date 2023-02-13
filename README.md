@@ -3,12 +3,12 @@
 Em Evolução!! 
 
 
-<!--
 
 
 
-- 🌱 Estudando node-js
-- 📫 Instagram :https://www.instagram.com/gustavo_caetno/
+
+- 🌱 Estudando Desenvolvimento WEB <!--
+- 📫 Instagram :https://www.instagram.com/douglasducatti/
 -->
 <div align="center">
   <a href="https://github.com/DGCruz">
