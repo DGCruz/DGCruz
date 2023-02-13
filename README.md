@@ -3,13 +3,13 @@
 Em Evolução!! 
 
 
+<!-- -->
 
 
 
-
-- 🌱 Estudando Desenvolvimento WEB <!--
+- 🌱 Estudando Desenvolvimento WEB 
 - 📫 Instagram :https://www.instagram.com/douglasducatti/
--->
+
 <div align="center">
   <a href="https://github.com/DGCruz">
   <img height="auto"  src="https://github-readme-stats.vercel.app/api?username=DGCruz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/></br>
