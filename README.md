@@ -8,7 +8,7 @@ Em Evolução!!
 
 
 - 🌱 Estudando Desenvolvimento WEB 
-- 📫 Instagram :https://www.instagram.com/douglasducatti/
+
 
 <div align="center">
   <a href="https://github.com/DGCruz">
