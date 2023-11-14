@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-Em Evolução!! 
+Sempre em Evolução!! 
 
 
 <!-- -->
 
 
+<!--
 
-- 🌱 Estudando Desenvolvimento WEB 
-
+- Estudando Desenvolvimento WEB 
 
 <div align="center">
   <a href="https://github.com/DGCruz">
@@ -16,7 +16,7 @@ Em Evolução!!
     <img height="auto" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DGCruz&layout=compact&langs_count=7&theme=radical"/>
 
 </div>
-
+-->
 
 <!--
 **DGCruz/DGCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
